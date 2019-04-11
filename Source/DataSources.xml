@@ -8,13 +8,44 @@
 
   <Exe comp="-1"/>
 
-  <LastIsn val="0"/>
+  <LastIsn val="1"/>
 
   <LastIsnFolder val="0"/>
 
 </Header>
  <DataSourceRepository>
   <DataObjects>
-  </DataObjects>
+ 
+<DataObject PhysicalName="Tab1" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="1" name="Tab1">
+
+  <Encrypt val="N"/>
+
+  <Cache val="D"/>
+
+  <IdentifyRowModifications val="U"/>
+
+  <HasHint val="Y"/>
+
+  <Cursor val="D"/>
+
+  <CheckExistence val="D"/>
+
+  <ObjectType val="T"/>
+
+  <Position val="D"/>
+
+  <PositionIndex val="-1"/>
+
+  <MetaTreeRTIndex val="-1"/>
+
+  <Columns/>
+
+  <Indexes/>
+
+  <ForeignKeys/>
+
+  <WebS/>
+
+</DataObject>  </DataObjects>
  </DataSourceRepository>
   </Application>
