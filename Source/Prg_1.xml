@@ -25,10 +25,10 @@
           <External val="N"/>
           <Offline val="N"/>
           <Closeopentasks val="N"/>
-          <RunProjectAs val="O"/>
+          <RunProjectAs val="W"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="737160" _time="34613" date="11/04/2019" time="09:36:53"/>
+          <LastModified _date="737160" _time="42622" date="11/04/2019" time="11:50:22"/>
         </Header>
         <Resource>
           <Columns/>
@@ -80,7 +80,7 @@
             <AllowPrintingData val="N"/>
           </SIDE_WIN>
           <WIN>
-            <OpenTaskWindow val="Y"/>
+            <OpenTaskWindow val="N"/>
             <CloseTaskWindow val="Y"/>
             <ForegroundWindow val="Y"/>
             <FlipFld val="N"/>
