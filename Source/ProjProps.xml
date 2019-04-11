@@ -18,6 +18,15 @@
       <ExposeComment val="N"/>
       <ProjectName val="Git"/>
     </ProjectData>
+    <WebClientData>
+      <OutputFolder val=".\angular"/>
+      <SourceImagesFolder val=".\images"/>
+      <Theme val="Material Design"/>
+      <GenerateMetadataOnly val="N"/>
+      <MultiLingualSupport val="N"/>
+      <StartupProgramISN val="3"/>
+      <UseWorkspace val="N"/>
+    </WebClientData>
   </ProjectProperties>
 
 </Application>
